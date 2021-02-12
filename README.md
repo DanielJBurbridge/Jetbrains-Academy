@@ -10,6 +10,9 @@ Projects and Problems on the Hyperskill Platform
       <li><a href="https://github.com/DanielJBurbridge/Jetbrains-Academy/tree/main/Hyperskill/Python/Easy/Coffee%20Machine">Coffee Machine</a></li>
       <li><a href="https://github.com/DanielJBurbridge/Jetbrains-Academy/tree/main/Hyperskill/Python/Easy/Tic-Tac-Toe">Tic-Tac-Toe</a></li>
       <li><a href="https://github.com/DanielJBurbridge/Jetbrains-Academy/tree/main/Hyperskill/Python/Easy/Simple%20Chatty%20Bot/">Simple Chatty Bot</a></li>
+      <li><a href="https://github.com/DanielJBurbridge/Jetbrains-Academy/tree/main/Hyperskill/Python/Easy/Zookeeper/">Zookeeper</a></li>
+    
+    
     </ul>
   </ul>
 </ul
